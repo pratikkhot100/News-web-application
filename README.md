@@ -26,6 +26,10 @@ Welcome to the **News Web App**! This is a lightweight web application built usi
 
 ---
 
+📸 Some Screenshots for the project:
+
+---
+
 ## 📦 Getting Started
 
 ### 1️⃣ Clone the repository
