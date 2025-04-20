@@ -2,6 +2,9 @@
 
 Welcome to the **News Web App**! This is a lightweight web application built using **HTML**, **CSS**, and **JavaScript** that fetches and displays the latest news articles 🗞️ from a public API.
 
+## 🎥 Project Demo
+
+   Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-qr-code-generator.netlify.app/)
 ---
 
 ## 🚀 Features
