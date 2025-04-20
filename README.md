@@ -57,4 +57,16 @@ cd news-web-app
 
 ---
 
+## 📞 Contact
+
+Created with ❤️ by [Pratik Khot](https://www.instagram.com/k.pratik01)
+
+🌐 [portfolio.com](https://portfoliopratikkhot.netlify.app/)
+
+🐙 [GitHub](https://github.com/pratikkhot100)
+
+💼 [LinkedIn](https://www.linkedin.com/in/pratikkhot01)
+
+📧 [pratikkhot1207.email@example.com](mailto:pratikkhot1207.email@example.com)
+
 
