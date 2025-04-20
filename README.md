@@ -5,6 +5,7 @@ Welcome to the **News Web App**! This is a lightweight web application built usi
 ## 🎥 Project Demo
 
    Check out the live demo of the Currency Converter : [Demo](https://pratikkhot-qr-code-generator.netlify.app/)
+   
 ---
 
 ## 🚀 Features
