@@ -40,16 +40,6 @@ Welcome to the **News Web App**! This is a lightweight web application built usi
 
 ---
 
-## 📦 Getting Started
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/news-web-app.git
-cd news-web-app
-```
-
----
-
 ## 🔑 Setup News API Key
 
     Sign up at NewsAPI.org
