@@ -28,6 +28,20 @@ Welcome to the **News Web App**! This is a lightweight web application built usi
 
 📸 Some Screenshots for the project:
 
+ ![Screenshot 2025-04-21 153635](https://github.com/user-attachments/assets/f4b5c626-fe3b-4056-b31a-6928dc759f08)
+
+ ![Screenshot 2025-04-21 153646](https://github.com/user-attachments/assets/b262f4d3-3a21-4cf7-ae18-a825fae9ac01)
+
+ ![Screenshot 2025-04-21 153705](https://github.com/user-attachments/assets/0d2fcf38-296f-4ceb-a806-d9b2f898c07c)
+
+ ![Screenshot 2025-04-21 153732](https://github.com/user-attachments/assets/62f1b717-274b-42cb-9b92-52e79c4668dc)
+
+ ![Screenshot 2025-04-21 155103](https://github.com/user-attachments/assets/73431a08-75c4-428e-aba2-91c562c207b1)
+
+ ![Screenshot 2025-04-21 155116](https://github.com/user-attachments/assets/57f535b3-4ce8-4680-b360-b808ce9b9115)
+
+ ![Screenshot 2025-04-21 155132](https://github.com/user-attachments/assets/851d48e8-9b2a-484d-be2e-9aabb085861f)
+
 ---
 
 ## 📦 Getting Started
